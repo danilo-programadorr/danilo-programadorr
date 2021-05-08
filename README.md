@@ -1,7 +1,6 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=dracula)
-
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = danilo-programadorr & layout = compact )] (https://github.com/danilo-programadorr/github-readme- Estatísticas)
+### Hi theree 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-programadorr&layout=compact)](https://github.com/danilo-programadorr/github-readme-stats)
 
 
 <!--
