@@ -1,4 +1,5 @@
 ### Hi there 👋
+! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = danilo-programadorr & show_icons = true & theme = drácula )
 
 <!--
 **danilo-programadorr/danilo-programadorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
