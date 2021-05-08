@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=dracula)
 
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = danilo-programadorr & layout = compact )] (https://github.com/danilo-programadorr/github-readme- Estatísticas)
+
 
 <!--
 **danilo-programadorr/danilo-programadorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
