@@ -9,7 +9,7 @@
 
 ## connect with me: 
 <a href="https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/" target="_blank"><img align="center" alt="danilo-linkedin" heith="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/daniilo_saantoos/" target="_blank"><img align="center" alt="danilo-instagran" heith="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
+<a href="https://www.instagram.com/danillocode/" target="_blank"><img align="center" alt="danilo-instagran" heith="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
 
 ## my skills 
 
