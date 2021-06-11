@@ -8,8 +8,8 @@
 
 
 ## connect with me: 
-<a href="https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/" target="_blank"><img align="center" alt="danilo-linkedin" heith="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
-<a href="https://www.instagram.com/danillocode/" target="_blank"><img align="center" alt="danilo-instagran" heith="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;"></a>
+[![Instagram Badge](https://img.shields.io/badge/-danillocode-993399?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danillocode/)](https://www.instagram.com/danillocode/)
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo%20Oliveira-0558fd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/)](https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/) 
 
 ## my skills 
 
