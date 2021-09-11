@@ -7,21 +7,33 @@
 - I am currently studying javascript and react.js  :student:
 
 
-## connect with me: 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-993399?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/danillocode/)](https://www.instagram.com/danillocode/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0558fd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/)](https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/) 
+<div>
+  <a href="https://github.com/danilo-programadorr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-programadorr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-## my skills 
+## my skills
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ## connect with me: 
+ 
+<div> 
+  <a href="https://www.instagram.com/danillocode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
+  <a href = "mailto:danilooliveira.cnt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" heith="40" style="max-witdh:100%;"><img/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" heith="40" style="max-witdh:100%;"><img/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" heith="40" style="max-witdh:100%;"><img/>
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-programadorr&layout=compact)](https://github.com/danilo-programadorr/github-readme-stats)
 
 
 <!--
