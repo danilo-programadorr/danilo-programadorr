@@ -22,6 +22,9 @@
   <img align="center" alt="dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  #### 🔨 Version Control
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  
   ## connect with me: 
  
 <div> 
@@ -29,6 +32,9 @@
   <a href = "mailto:danilooliveira.cnt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
+  #### 👋 Visitas
+<img src="https://profile-counter.glitch.me/danilo-programadorr/count.svg" />
 </div>
 
 
