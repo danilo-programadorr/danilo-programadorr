@@ -13,19 +13,21 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-programadorr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## my skills
+## my Skills
  
 <div style="display: inline_block"><br>
   <img align="center" alt="dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.w3schools.com/css/"  target="_blank"> <img align="center" alt="dan-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
 </div>
   
-  #### 🔨 Version Control
+  <br>
+ 🔨 Version Control<br><br>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   
-  ## connect with me: 
+  ## Connect with me: 
  
 <div> 
   <a href="https://www.instagram.com/danillocode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
