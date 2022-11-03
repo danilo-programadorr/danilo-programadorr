@@ -1,16 +1,18 @@
-### HI there
-## I'm  Danilo Oliveira
+## HI there
+# I'm  Danilo Oliveira
 
 
 - I live in Brazil , southeast :sunglasses::sunrise:
 - I have been working on certus software as front end developer :computer:
 - I am currently studying javascript and react.js  :student:
 
-
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilo-programadorr&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
 <div>
   <a href="https://github.com/danilo-programadorr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-programadorr&layout=compact&langs_count=7&theme=dracula"/>
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-programadorr&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## my Skills
