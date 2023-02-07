@@ -5,6 +5,15 @@
 - I live in Brazil , southeast :sunglasses::sunrise:
 - I have been working on certus software as front end developer :computer:
 - I am currently studying javascript and react.js  :student:
+<div align="center">  
+
+<hr/> 
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=danilo-programadorr&theme=nightowl&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+
+<hr/>
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilo-programadorr&theme=tokyonight"/>
@@ -35,11 +44,6 @@
   <a href="https://www.instagram.com/devcynistro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
   <a href = "mailto:danilooliveira.cnt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-oliveira-santos-20b2641b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
-  #### 👋 Visitas
-<img src="https://profile-counter.glitch.me/danilo-programadorr/count.svg" />
-</div>
 
 
 ![Snake animation](https://github.com/danilo-programadorr/danilo-programadorr/blob/output/github-contribution-grid-snake.svg)
