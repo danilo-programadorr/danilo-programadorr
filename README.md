@@ -5,7 +5,9 @@
 - I live in Brazil , southeast :sunglasses::sunrise:
 - I have been working on certus software as front end developer :computer:
 - I am currently studying javascript and react.js  :student:
-<div align="center">  
+<div align="center"> 
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danilo-programadorr&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/> 
 
