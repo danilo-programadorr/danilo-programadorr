@@ -7,7 +7,7 @@
 - I am currently studying javascript and react.js  :student:
 <div align="center"> 
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danilo-programadorr&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danilo-programadorr&theme=nightowl&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr/> 
 
@@ -18,7 +18,7 @@
 <hr/>
 
 <div align="center">
-<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilo-programadorr&theme=tokyonight"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danilo-programadorr&theme=nightowl&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=danilo-programadorr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
 <div>
   <a href="https://github.com/danilo-programadorr">
